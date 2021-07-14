@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joannehongtran
 - 👀 I’m interested in creating and automating software applications
-- 🌱 I’m currently learning and advancing my Javascript 
+- 🌱 I’m currently learning and advancing my knowledge on Data manipulation and programming  
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Joannehongtran@gmail.com
 
